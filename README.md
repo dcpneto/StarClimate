@@ -23,29 +23,8 @@ classDiagram
 ```
 ## Diagrama de Casos de Uso
 
-```plantuml
-@startuml
-skinparam actorStyle awesome
-left to right direction
-actor Cliente as c
-package API {
-  actor "api" as api
-}
-package Aplicativo {
-  usecase "Local" as UC1
-  usecase "Tela do app" as UC2
-  usecase "Processamento" as UC3
-  usecase "Dados" as UC4
-  usecase "Banco de Dados" as UC5
-}
-c --> UC1
-UC2 --> c
-UC4 --> UC3
-UC1 --> api
-UC3 --> UC2
-UC3 --> UC5
-api --> UC4
-@enduml
+```
+![alt text](https://github.com/dcpneto/StarClimate/blob/main/img/usecase.png?raw=true)
 ```
 
 
