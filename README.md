@@ -23,6 +23,5 @@ classDiagram
 ```
 ## Diagrama de Casos de Uso
 
-```
 ![My Image](usecase.png)
-```
+
