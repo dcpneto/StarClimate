@@ -24,7 +24,7 @@ classDiagram
 ## Diagrama de Casos de Uso
 
 ```
-![alt text](https://github.com/dcpneto/StarClimate/blob/main/img/usecase.png?raw=true)
+![alt text](https://raw.githubusercontent.com/dcpneto/StarClimate/main/img/usecase.png)
 ```
 
 
