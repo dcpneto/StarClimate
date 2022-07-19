@@ -7,9 +7,9 @@ Baseado em uma estrutura de node-red, o Starclimate visa buscar dados para otimi
 classDiagram
       Web_User .. Login
       Web_User.. App_Use
-      Web_User: int user_id
-      Web_User: int user_pwd_PK
-      Web_User: String user_name_PK
+      Web_User: int user_id_PK
+      Web_User: int user_pwd
+      Web_User: String user_name
       Web_User: String user_email
       class Login{
           int login_datetime
