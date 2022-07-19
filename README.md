@@ -25,7 +25,5 @@ classDiagram
 
 ```
 ![alt text](https://raw.githubusercontent.com/dcpneto/StarClimate/main/img/usecase.png)
+<img src="https://raw.githubusercontent.com/dcpneto/StarClimate/main/img/usecase.png" alt="Usecase image describing interaction between API, software and the customer" title="Usecase model">
 ```
-
-
-
