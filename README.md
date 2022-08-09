@@ -1,6 +1,9 @@
 # Projeto StarClimate
 Baseado em uma estrutura de node-red, o Starclimate visa buscar dados para otimizar sua plantação
 
+## Embasamento Disciplinar
+O projeto visa utilizar o conhecimento adquirido em disciplinas como Programação Web II, Novas Tecnologias (IoT) e Bancos de Dados
+
 ## Modelagem de banco de dados
 
 ```mermaid
@@ -25,3 +28,14 @@ classDiagram
 
 ![My Image](usecase.png)
 
+## Diagrama de Sequência
+
+![My Image](sequence.png)
+
+## Formatação do sistema
+
+![My Image](flows.png)
+
+## Tela inicial (MVP)
+
+![My Image](initialscreen.png)
