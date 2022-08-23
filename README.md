@@ -4,6 +4,10 @@ Baseado em uma estrutura de node-red, o Starclimate visa buscar dados para otimi
 ## Embasamento Disciplinar
 O projeto visa utilizar o conhecimento adquirido em disciplinas como Programação Web II, Novas Tecnologias (IoT) e Bancos de Dados
 
+## Diagrama Cronológico
+
+![My Image](activitysequence.png)
+
 ## Modelagem de banco de dados
 
 ```mermaid
