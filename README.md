@@ -24,9 +24,10 @@ classDiagram
           int action_datetime
       }
 ```
-## Diagrama de Casos de Uso
+## Diagramas de Casos de Uso
 
-![My Image](usecase.png)
+![My Image](usecaseadmin.png)
+![My Image](usecasecustomer.png)
 
 ## Diagrama de Sequência
 
