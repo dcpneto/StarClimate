@@ -28,6 +28,8 @@ classDiagram
           int action_datetime
       }
 ```
+*Sujeito a alterações devido a mudanças na formatação da lógica de negócio
+
 ## Diagramas de Casos de Uso
 
 ![My Image](usecaseadmin.png)
